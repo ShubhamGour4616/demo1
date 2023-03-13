@@ -1,0 +1,8 @@
+.post{
+    margin: 25px;
+    padding: 10px;
+    padding-inline: 25px;
+    border-radius: 15px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    font-weight:600;
+}

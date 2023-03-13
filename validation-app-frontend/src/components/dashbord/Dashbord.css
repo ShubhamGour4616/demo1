@@ -1,0 +1,20 @@
+.container{
+    width: 70%;
+   
+    margin: auto;
+    margin-top: 50px;
+}
+.heading{
+  
+    text-align: center;  
+}
+.content{
+    margin-top: 70px;
+    overflow: hidden;    
+}
+
+
+
+
+
+
